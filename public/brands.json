@@ -1,0 +1,203 @@
+[
+  {
+    "_id": "1",
+    "brand_name": "Daraz",
+    "rating": 4.6,
+    "description": "The leading online marketplace in Bangladesh, offering a variety of products.",
+    "brand_logo": "https://futurestartup.b-cdn.net/wp-content/uploads/2019/09/41822456_2633850196840163_3656768458990813184_n.jpg",
+    "coupons": [
+      {
+        "coupon_code": "DARAZ10",
+        "description": "10% off on all products",
+        "expiry_date": "2024-12-31",
+        "condition": "Minimum purchase of 1000 BDT",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FREESHIPBD",
+        "description": "Free shipping on orders",
+        "expiry_date": "2024-11-30",
+        "condition": "Applicable on orders above 500 BDT",
+        "coupon_type": "Free Shipping"
+      }
+    ],
+    "shop_Link": "https://www.daraz.com.bd",
+    "category": "General Marketplace",
+    "isSaleOn": true
+  },
+  {
+    "_id": "2",
+    "brand_name": "Pickaboo",
+    "rating": 4.4,
+    "description": "Your go-to platform for gadgets and electronics in Bangladesh.",
+    "brand_logo": "https://www.pickaboo.com/blog/wp-content/uploads/2023/11/Pickaboo-Online-shopping.png",
+    "coupons": [
+      {
+        "coupon_code": "PICK20",
+        "description": "20% off on selected electronics",
+        "expiry_date": "2024-12-25",
+        "condition": "Valid for new customers only",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "TECHFREE",
+        "description": "Free accessories with orders",
+        "expiry_date": "2024-11-20",
+        "condition": "Applicable on smartphones and laptops",
+        "coupon_type": "Freebie"
+      }
+    ],
+    "shop_Link": "https://www.pickaboo.com",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "3",
+    "brand_name": "Chaldal",
+    "rating": 4.8,
+    "description": "Bangladesh's top grocery delivery platform.",
+    "brand_logo": "https://i.chaldn.com/asset/Egg.ChaldalWeb.Fabric/Egg.ChaldalWeb1/1.0.0-Deploy-Release-622/Default/resources/images/egg-480.png?q=low&alpha=1",
+    "coupons": [
+      {
+        "coupon_code": "GROCERY5",
+        "description": "5% off on all grocery items",
+        "expiry_date": "2024-12-15",
+        "condition": "Minimum purchase of 800 BDT",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FRESH10",
+        "description": "10% off on fresh vegetables",
+        "expiry_date": "2024-11-30",
+        "condition": "Applicable on orders above 300 BDT",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_Link": "https://www.chaldal.com",
+    "category": "Grocery",
+    "isSaleOn": true
+  },
+  {
+    "_id": "4",
+    "brand_name": "Rokomari",
+    "rating": 4.7,
+    "description": "The best platform for buying books online in Bangladesh.",
+    "brand_logo": "https://play-lh.googleusercontent.com/xowgUyZAPlf9wAS7l-sq9Kp4E37eHDeHPQtSGS4Yp6g9YHP6OdVtP8uLvnO_Zyzd9Q",
+    "coupons": [
+      {
+        "coupon_code": "BOOK10",
+        "description": "10% off on books",
+        "expiry_date": "2024-12-10",
+        "condition": "No minimum purchase",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "READMORE",
+        "description": "15% off on orders over 1000 BDT",
+        "expiry_date": "2024-11-25",
+        "condition": "Valid on selected book categories",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_Link": "https://www.rokomari.com",
+    "category": "Books",
+    "isSaleOn": true
+  },
+  {
+    "_id": "5",
+    "brand_name": "Ajkerdeal",
+    "rating": 4.3,
+    "description": "A popular online shopping site offering a variety of daily needs.",
+    "brand_logo": "https://cdn6.aptoide.com/imgs/e/0/c/e0c4c697decba1b858e4e11224612dd9_icon.png",
+    "coupons": [
+      {
+        "coupon_code": "DEAL15",
+        "description": "15% off on selected items",
+        "expiry_date": "2024-12-20",
+        "condition": "Valid on apparel and accessories",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "SAVE50",
+        "description": "50 BDT off on orders over 500 BDT",
+        "expiry_date": "2024-12-05",
+        "condition": "Applicable for all categories",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_Link": "https://www.ajkerdeal.com",
+    "category": "General Marketplace",
+    "isSaleOn": false
+  },
+  {
+    "_id": "6",
+    "brand_name": "Foodpanda",
+    "rating": 4.5,
+    "description": "The leading food delivery platform in Bangladesh.",
+    "brand_logo": "https://pbs.twimg.com/profile_images/920709492052021248/k5YTMzk1_400x400.jpg",
+    "coupons": [
+      {
+        "coupon_code": "FOODIE20",
+        "description": "20% off on first order",
+        "expiry_date": "2024-12-30",
+        "condition": "Valid for new customers only",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "EATFREE",
+        "description": "Free delivery on orders over 300 BDT",
+        "expiry_date": "2024-11-28",
+        "condition": "Available for participating restaurants only",
+        "coupon_type": "Free Shipping"
+      }
+    ],
+    "shop_Link": "https://www.foodpanda.com.bd",
+    "category": "Food Delivery",
+    "isSaleOn": true
+  },
+  {
+    "_id": "7",
+    "brand_name": "Evaly",
+    "rating": 4.1,
+    "description": "An emerging e-commerce platform in Bangladesh.",
+    "brand_logo": "https://images.prothomalo.com/prothomalo-english/2020-08/afd3ef6e-0558-48b2-984a-0ef6d3b12069/evaly.jpg",
+    "coupons": [
+      {
+        "coupon_code": "EVALY100",
+        "description": "100 BDT off on first order",
+        "expiry_date": "2024-12-31",
+        "condition": "Minimum purchase of 1000 BDT",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FLASH50",
+        "description": "50 BDT off during flash sales",
+        "expiry_date": "2024-12-15",
+        "condition": "Valid for limited-time offers only",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_Link": "https://evaly.com.bd",
+    "category": "General Marketplace",
+    "isSaleOn": false
+  },
+  {
+    "_id": "8",
+    "brand_name": "Bikroy",
+    "rating": 4.0,
+    "description": "Bangladesh's largest online marketplace for classified ads.",
+    "brand_logo": "https://play-lh.googleusercontent.com/KMfnxoIQM9ULWASbjyXjKCWko-hnujlTYplB9mdgjf7WAd-OMe0ML6jZTk-Dt3Bu7A",
+    "coupons": [
+      {
+        "coupon_code": "CLASSAD10",
+        "description": "10% off on premium ads",
+        "expiry_date": "2024-12-05",
+        "condition": "Valid for first-time ad posters",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_Link": "https://www.bikroy.com",
+    "category": "Classifieds",
+    "isSaleOn": false
+  }
+]
